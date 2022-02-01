@@ -1,4 +1,8 @@
 {
-                                           " a " : {
-        " mensaje " : " ! ip 190.246.57.242"
-    }
+    "RANCHO CITY": {
+        "message": "!ip 178.32.189.216"
+    },
+    "Adir MIA": {
+        "message": "!ip 54.37.245.82"
+    },
+}
